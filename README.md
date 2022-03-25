@@ -1,0 +1,1 @@
+This Odin project is about setting up a basic webpage with links to recipes. It provides practice with what's been covered so far, including basic HTML, git, and github.
