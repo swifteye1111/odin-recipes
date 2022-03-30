@@ -1,0 +1,36 @@
+/* style.css */
+
+body {
+    width: auto;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: lightgrey
+}
+
+h1 {
+    font-size: 36px;
+}
+
+li {
+    font-size: 24px;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: lightblue;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin: 10px;
+}
+
+.text p {
+    font-size: 28px;
+}
